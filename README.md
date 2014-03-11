@@ -1,0 +1,4 @@
+SymulatorSCR
+============
+
+Współbieżność C#
